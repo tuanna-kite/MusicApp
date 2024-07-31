@@ -68,7 +68,7 @@ export const TracksListItem = ({
 							numberOfLines={1}
 							style={{
 								...styles.trackTitleText,
-								color: isActiveTrack ? colors.primary : colors.text,
+								color: isActiveTrack ? "#FF606E" : colors.text,
 							}}
 						>
 							{track.title}

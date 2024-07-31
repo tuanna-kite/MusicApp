@@ -27,7 +27,7 @@ const SongsScreen = () => {
 		<View style={defaultStyles.container}>
 			<ScrollView
 				contentInsetAdjustmentBehavior="automatic"
-				style={{ paddingHorizontal: screenPadding.horizontal }}
+				style={{ paddingHorizontal: screenPadding.horizontal, marginTop: 80 }}
 			>
 				<TracksList
 					id={generateTracksListId('songs', search)}

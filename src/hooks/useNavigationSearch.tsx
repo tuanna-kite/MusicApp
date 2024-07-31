@@ -4,7 +4,7 @@ import { useLayoutEffect, useState } from 'react'
 import { SearchBarProps } from 'react-native-screens'
 
 const defaultSearchOptions: SearchBarProps = {
-	tintColor: colors.primary,
+	tintColor: "#FF606E",
 	hideWhenScrolling: false,
 }
 

@@ -13,7 +13,12 @@ const ArtistsScreenLayout = () => {
 					options={{
 						...StackScreenWithSearchBar,
 						headerTitle: 'Artists',
+						headerStyle: {
+							backgroundColor: colors.background,
+						},
+						headerTintColor: "#fff",
 					}}
+
 				/>
 
 				<Stack.Screen
@@ -24,7 +29,7 @@ const ArtistsScreenLayout = () => {
 						headerStyle: {
 							backgroundColor: colors.background,
 						},
-						headerTintColor: colors.primary,
+						headerTintColor: "#FF606E",
 					}}
 				/>
 			</Stack>

@@ -2,6 +2,7 @@ import { StackScreenWithSearchBar } from '@/constants/layout'
 import { defaultStyles } from '@/styles'
 import { Stack } from 'expo-router'
 import { View } from 'react-native'
+import { colors } from '@/constants/tokens'
 
 const FavoritesScreenLayout = () => {
 	return (
@@ -12,6 +13,10 @@ const FavoritesScreenLayout = () => {
 					options={{
 						...StackScreenWithSearchBar,
 						headerTitle: 'Favorites',
+						headerStyle: {
+							backgroundColor: colors.background,
+						},
+						headerTintColor: "#fff",
 					}}
 				/>
 			</Stack>

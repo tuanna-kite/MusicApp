@@ -74,7 +74,7 @@ const PlayerScreen = () => {
 									<FontAwesome
 										name={isFavorite ? 'heart' : 'heart-o'}
 										size={20}
-										color={isFavorite ? colors.primary : colors.icon}
+										color={isFavorite ? "#FF606E" : colors.icon}
 										style={{ marginHorizontal: 14 }}
 										onPress={toggleFavorite}
 									/>

@@ -13,6 +13,10 @@ const PlaylistsScreenLayout = () => {
 					options={{
 						...StackScreenWithSearchBar,
 						headerTitle: 'Playlists',
+						headerStyle: {
+							backgroundColor: colors.background,
+						},
+						headerTintColor: "#fff",
 					}}
 				/>
 
@@ -24,7 +28,7 @@ const PlaylistsScreenLayout = () => {
 						headerStyle: {
 							backgroundColor: colors.background,
 						},
-						headerTintColor: colors.primary,
+						headerTintColor: "#FF606E",
 					}}
 				/>
 			</Stack>

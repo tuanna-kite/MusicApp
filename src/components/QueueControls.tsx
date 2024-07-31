@@ -27,7 +27,7 @@ export const QueueControls = ({ tracks, style, ...viewProps }: QueueControlsProp
 			{/* Play button */}
 			<View style={{ flex: 1 }}>
 				<TouchableOpacity onPress={handlePlay} activeOpacity={0.8} style={styles.button}>
-					<Ionicons name="play" size={22} color={colors.primary} />
+					<Ionicons name="play" size={22} color={"#FF606E"} />
 
 					<Text style={styles.buttonText}>Play</Text>
 				</TouchableOpacity>
@@ -36,7 +36,7 @@ export const QueueControls = ({ tracks, style, ...viewProps }: QueueControlsProp
 			{/* Shuffle button */}
 			<View style={{ flex: 1 }}>
 				<TouchableOpacity onPress={handleShufflePlay} activeOpacity={0.8} style={styles.button}>
-					<Ionicons name={'shuffle-sharp'} size={24} color={colors.primary} />
+					<Ionicons name={'shuffle-sharp'} size={24} color={"#FF606E"} />
 
 					<Text style={styles.buttonText}>Shuffle</Text>
 				</TouchableOpacity>
@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
 	},
 	buttonText: {
 		...defaultStyles.text,
-		color: colors.primary,
+		color: "#FF606E",
 		fontWeight: '600',
 		fontSize: 18,
 		textAlign: 'center',

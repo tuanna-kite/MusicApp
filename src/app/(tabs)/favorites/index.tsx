@@ -26,7 +26,7 @@ const FavoritesScreen = () => {
 	return (
 		<View style={defaultStyles.container}>
 			<ScrollView
-				style={{ paddingHorizontal: screenPadding.horizontal }}
+				style={{ paddingHorizontal: screenPadding.horizontal, marginTop: 80 }}
 				contentInsetAdjustmentBehavior="automatic"
 			>
 				<TracksList
