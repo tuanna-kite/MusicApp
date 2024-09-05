@@ -40,7 +40,8 @@ export const useLibraryStore = create<LibraryState>()((set) => ({
 		})),
 }))
 
-export const useTracks = () => useLibraryStore((state) => state.tracks)
+export const useTracks = () =>
+	useLibraryStore((state) => state.tracks.sort((a, b) => a.title < b.title))
 
 export const useFavorites = () => {
 	const favorites = useLibraryStore((state) => state.tracks.filter((track) => track.rating === 1))
