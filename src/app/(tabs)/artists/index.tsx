@@ -62,7 +62,8 @@ const ArtistsScreen = () => {
 										<View>
 											<FastImage
 												source={{
-													uri: unknownArtistImageUri,
+													// uri: unknownArtistImageUri,
+													uri: artist.tracks[0].artwork,
 													priority: FastImage.priority.normal,
 												}}
 												style={styles.artistImage}
