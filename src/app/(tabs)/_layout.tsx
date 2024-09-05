@@ -1,5 +1,5 @@
 import { FloatingPlayer } from '@/components/FloatingPlayer'
-import { colors, fontSize } from '@/constants/tokens'
+import { fontSize } from '@/constants/tokens'
 import { FontAwesome, FontAwesome6, Ionicons, MaterialCommunityIcons } from '@expo/vector-icons'
 import { Tabs } from 'expo-router'
 
@@ -8,7 +8,7 @@ const TabsNavigation = () => {
 		<>
 			<Tabs
 				screenOptions={{
-					tabBarActiveTintColor: "#FF606E",
+					tabBarActiveTintColor: '#FF606E',
 					tabBarLabelStyle: {
 						fontSize: fontSize.xs,
 						fontWeight: '500',
@@ -20,7 +20,7 @@ const TabsNavigation = () => {
 						borderTopRightRadius: 20,
 						borderTopWidth: 0,
 						paddingTop: 8,
-						backgroundColor: "black"
+						backgroundColor: 'black',
 					},
 				}}
 			>
@@ -63,7 +63,7 @@ const TabsNavigation = () => {
 					position: 'absolute',
 					left: 8,
 					right: 8,
-					bottom: 60,
+					bottom: 84,
 				}}
 			/>
 		</>

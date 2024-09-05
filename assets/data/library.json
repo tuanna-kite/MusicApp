@@ -1,108 +1,732 @@
 [
   {
-    "url": "https://audio.jukehost.co.uk/vTRYaTEbpaYRCxiWGgL2S91mnOuMKfLw",
-    "title": "Guess I'll Never Know",
-    "artist": "TrackTribe",
+    "url": "https://audio.jukehost.co.uk/3cmVYvhQnYErZRoMBYvtrnxZs4x6iGqA",
+    "title": "Backup Generator",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/glyaa6LclJNvVA8xizA6YhCZOJuA8nks",
+    "title": "Coffee",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/NgzYaXawPchBiV2tjAI1x3gTiJC6NcaJ",
+    "title": "Commercial",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/RBhpwVy3CejjvbAHu02yKoAd9zw88JsV",
+    "title": "Computer Talk",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/968cqp9pqyXgHPri11T8ZCjOPtu3kGWj",
+    "title": "Daytoday",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/28AkUl7POe5ELbYRXnpdXFN49Z6dxYoI",
+    "title": "Garden",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/KvOHTm6i2YSdlnFqNHK2i99maJLl9IBi",
+    "title": "Height",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bCigflI8KfU4BM7Wk6Rt9Vm3xT31A8OV",
+    "title": "In My Mind",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Im2VWmdjodDO7WLMS3NcvXSirqexQaMm",
+    "title": "Leave It All To Me",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/XKXNj8qWSgs4UpLe6iCZAz3F71GUbGUe",
+    "title": "Off Kilter",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/iL8NvhkXZmWildAQC7mY52ygIUt8hv7S",
+    "title": "Personova",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/QJ7UE27Om5YvCYMhQk5htMcK0mDYQPyv",
+    "title": "Play",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/w4UbUxRnKNLJCQld3f8imDxbUPmqKlbx",
+    "title": "Prosper",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Cvf5O4QV3vo0ckkZX4ipsD77PLIgxeFS",
+    "title": "Supercool",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/9O86yK2JJoEBajrfVeQlFejel4low0mL",
+    "title": "Teledrone",
+    "artist": "Austenyo",
+    "artwork": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRnpfVb96hqDlWIGrRlcmtQ0KYG79pzPLBQ&s",
+    "rating": 5,
+    "playlist": [
+      "Austenyo"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/4HdCqSMkZd8bTzcH4EVtIIxzyoupxYO1",
+    "title": "A Future Funk You Cant Dance Out",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/zaT4kkdhKH9K8ew2lL3Yx9Fm8tsjiFiU",
+    "title": "Back to 1999 w omxri",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6VvSwW5uZDVEExwIFcaHX9hmSvpZpSTE",
+    "title": "Before The Story",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/v1QQtxBRFzRwkk21wZDPrhId8N11kOx6",
+    "title": "Blisters",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FhFbrKVyu9L3ZxXvqcgGRYSWwaw6yjKY",
+    "title": "Daria Math",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/kiHXaSClzpxLZKIyCNZvwmUvRRmTtFnX",
+    "title": "DR PEPPER IS THE OLDEST MAJOR SOFT DRINK IN AMERICA",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/d14jiHfVGfm7KnTYcEIGVFhUD5MrnQ2F",
+    "title": "Homosick",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/03rQ9iH0E7X5DLvHWUgOCjJfkR2s8msM",
+    "title": "Insane Anime Obsessed Boyfriend",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/BVwGFkBQTZXPLzHPibgkG5tZDb9uUBfh",
+    "title": "My Friends Are So Weird",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/E6il8ZWwipepLgP5KDfN7FztC0TLrKq7",
+    "title": "Pronoun Picker Sing Berdlycore",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/UCyfhVp35QToBUY9DltOKqzf81eNeSdk",
+    "title": "The Elon Musk soundcloud acquisition",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/h2bM73Uokqv45VQkQb3jE1ww7B3dsgdR",
+    "title": "The life of an aspiring script kiddie",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6NVusXEPOoSMBr0nfZGFLHJxLeB9oBFV",
+    "title": "THEY could be us",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/bEX1Y3uVf1pFZ91DpHUGtsNvdb177uW4",
+    "title": "Toby fox discovers the hyperpop soundfont",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/pJLkoUwCSZSGgYkcf63o7eX6NxbycIJe",
+    "title": "Tonight_s (#jazz & blues)",
+    "artist": "Berdlycore Chapter 3",
+    "artwork": "https://f4.bcbits.com/img/a1113075234_65",
+    "rating": 5,
+    "playlist": [
+      "Berdlycore Chapter 3"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/xL8b2qFKcNsj1qM6InwqmYyhFiNvJpUQ",
+    "title": "360",
+    "artist": "BRAT",
     "artwork": "https://f4.bcbits.com/img/a3736661212_65",
-    "rating": 1,
-    "playlist": ["Chill 🌱"]
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/priWy2vYsWODmQiM6KevNYVLpPJGPZGd",
-    "title": "Memories",
-    "playlist": ["Instrumental 🎵"]
+    "url": "https://audio.jukehost.co.uk/6oSTEvK9MLBryZjcvaZhoDzE4TMR35qX",
+    "title": "365",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/rSmGXxf0OJLipPwFRyvoFKodDOj5VuWf",
-    "title": "Anxiety",
-    "artist": "NEFFEX",
-    "artwork": "https://i1.sndcdn.com/artworks-iCqupgQNLXSjKspS-0CGreg-t500x500.jpg",
-    "playlist": ["Chill 🌱", "Instrumental 🎵", "Rap 🎤"]
+    "url": "https://audio.jukehost.co.uk/j9pEbEvVbmZ77Sdi9mJA5Miu7qOkQPXZ",
+    "title": "Apple",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/ZLdoXNocDAcsgeq6QKtPRHyvlqslNbke",
-    "title": "As You Fade Away",
-    "artist": "NEFFEX",
-    "artwork": "https://i.ytimg.com/vi/JhUFfaArYk8/maxresdefault.jpg",
-    "rating": 1,
-    "playlist": ["Rap 🎤"]
+    "url": "https://audio.jukehost.co.uk/BzFBTMoO794Qxlya3THc8tNvFgqTL5DG",
+    "title": "B2b",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/rZ9sshicVlki8Dnm95ps1eWhK95dYgKF",
-    "title": "Cattle",
-    "artist": "Telecasted",
-    "artwork": "https://i.ytimg.com/vi/rxmWdkluHJ0/maxresdefault.jpg",
-    "playlist": ["Chill 🌱"]
+    "url": "https://audio.jukehost.co.uk/LyyHoOqz49QAkBAT9zR9UVjhYmBXVON6",
+    "title": "Club Classics",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/ZufGK11EtwQWXge8xYo5EQ02RuJqtr4s",
-    "title": "Desert Brawl",
-    "artist": "Vans in Japan",
-    "artwork": "https://i.ytimg.com/vi/Kk0xLSNMPeQ/maxresdefault.jpg"
+    "url": "https://audio.jukehost.co.uk/es1eGAUnx91ZohlU9Gsw2CTESePzd72e",
+    "title": "Everything Is Romantic",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/Tn0JjUOFnQXt94p3CQCA4AkB3weF51Yf",
-    "title": "Changing",
-    "artist": "NEFFEX",
-    "artwork": "https://i1.sndcdn.com/artworks-ZaFhh1AQdO4hqdYb-ssYmcA-t500x500.jpg",
-    "rating": 1,
-    "playlist": ["Rap 🎤"]
+    "url": "https://audio.jukehost.co.uk/J87ckDZZCtc1eqH3n2vOGhV2bDTXdA42",
+    "title": "Girl, so confusing",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/yA5v0HqEX7pRLKDkjp3XeFDcksZVv7lr",
-    "title": "El Secreto",
-    "artist": "Yung Logos",
-    "artwork": "https://i.ytimg.com/vi/VMfrx6lbsEQ/maxresdefault.jpg"
+    "url": "https://audio.jukehost.co.uk/m1BOd2ZIXn9PYo4zPJ5TVPWDcMJmZVNc",
+    "title": "I might say something stupid",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/BTIDaoKPirPWaPpHl8SOsIU8Ge9Zx9Mb",
-    "title": "Go Down Swinging (Instrumental)",
-    "artist": "NEFFEX",
-    "playlist": ["Instrumental 🎵", "Rap 🎤"]
+    "url": "https://audio.jukehost.co.uk/GEoY2GOTTXswz920Do5EStgamhycWm9m",
+    "title": "I think about it all the time",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/nXa6f08Ojlz1V2SYJ3axYmSa7ot0hblZ",
-    "title": "Hotlanta",
-    "artist": "TrackTribe",
-    "artwork": "https://i.ytimg.com/vi/fwuW0HpXA30/maxresdefault.jpg",
-    "rating": 1
+    "url": "https://audio.jukehost.co.uk/fG2JcAAgG6uCjEzfJ2zztfQWKq37OjOx",
+    "title": "Mean girls",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/cbMVQp4JGHhSNEeCqRjvieiigYpUaE0s",
-    "title": "Take Me Back",
-    "artist": "NEFFEX",
-    "artwork": "https://i1.sndcdn.com/artworks-yaXBlJOtjWvRcNnA-W6spcw-t500x500.jpg",
-    "playlist": ["Rap 🎤"]
+    "url": "https://audio.jukehost.co.uk/eqOkgvCRqdKuzGLrFHpEjV9FtSuhAt8A",
+    "title": "Rewind",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/Ge9fdTsk6Y9SWoOnC7QJH0n8pprU7rev",
-    "title": "mellow-future-bass-bounce-on-it",
-    "playlist": ["Chill 🌱", "Instrumental 🎵"]
+    "url": "https://audio.jukehost.co.uk/4JmX8C4qFbuD9jkLDihzmIQmlJB0GIAv",
+    "title": "So I",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/KDOr4agGwHHvikLtk9zukiiDpYNzIp8w",
-    "title": "Outside the Box",
-    "artist": "Patrick Patrikios",
-    "artwork": "https://i.ytimg.com/vi/nAXO_-eGmGY/maxresdefault.jpg",
-    "rating": 1
+    "url": "https://audio.jukehost.co.uk/ihomfWzfKUJL6AmDPIMAT2dbvQlVUbVg",
+    "title": "Sympathy is a knife",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/K4PdyskIIfRrRotZtwF0EfHkJGjTs9Dy",
-    "title": "Smokey's Lounge",
-    "artist": "TrackTribe",
-    "artwork": "https://i.scdn.co/image/ab67616d0000b2730efb49aab6109fe4c74d6b04"
+    "url": "https://audio.jukehost.co.uk/mj7zbM3yKDREssw8HvNJv1rzP0Fbmp3x",
+    "title": "Talk talk",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/5MLu9yZCOGOCpf9yhdK4uitEv2CZ9fwx",
-    "title": "Sunny Days",
-    "artist": "Anno Domini Beats",
-    "artwork": "https://i1.sndcdn.com/artworks-fJ47RvWYE7weOhay-V5Qjyw-t500x500.jpg",
-    "playlist": ["Chill 🌱"]
+    "url": "https://audio.jukehost.co.uk/O4h1xPGtewZoXibyhFCCnkvoxZdFhoJC",
+    "title": "Von Dutch",
+    "artist": "BRAT",
+    "artwork": "https://f4.bcbits.com/img/a3736661212_65",
+    "rating": 5,
+    "playlist": [
+      "BRAT"
+    ]
   },
   {
-    "url": "https://audio.jukehost.co.uk/bnvYr6BoqfoZjrx72rvq3hGXyE6b7Qyz",
-    "title": "Hidden Frozen Lake - Go By Ocean",
-    "artist": "Ryan McCaffrey",
-    "playlist": ["Chill 🌱"]
+    "url": "https://audio.jukehost.co.uk/8mLy8GU1Yi482dqpa9G0DjZaomnWmY8q",
+    "title": "Godzilla",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/3n7NL6gpzQwJ8FgkrODnr0hEyIZ9xbQP",
+    "title": "Houdini",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/7dFjjH5U9vDapCoY1dR96l19RcOXfj9W",
+    "title": "Lose Yourself",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/NEO8krlsMt1opccssPZ85tEqYrIEQVHH",
+    "title": "Love The Way You Lie",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/JsB1UMbIp2jEV1wvGrcinyDNO4LSvlVg",
+    "title": "Mockingbird",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/fxi9sW4qoRdbPuz4EBtARMh5LAoHvFnl",
+    "title": "Not Afraid",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6RBoGSIxXiBcrDxBlyuHxTXueuv02YKv",
+    "title": "Rap God",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/MEr8hO3QNa6E9ubSYtq8tk8RvWTZFnju",
+    "title": "Shake That",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/FehMs3Ku2BO35sOjpaTAa3zCWmY4Y5EF",
+    "title": "Sing For The Moment",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/wrBuNzXQC4Rodw1UDFXdcttoAl6AhA6C",
+    "title": "Stan",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6eygILiad2mJiHQ2RE5zTR36huS9635Y",
+    "title": "Superman",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/yd8Bq7XBfrYjsybLAgicaFQVkai5Msx3",
+    "title": "The Monster",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/c3iPBCngLdUdapgSZIxgkiL5cF9q2VbQ",
+    "title": "The Real Slim Shady",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/Z2ZvyDVQjI27zX6VUEAHZcWiw7hpYh7H",
+    "title": "Venom",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/fPaKWdlwekHAxJPrQ1Elt3bfy0p31oc3",
+    "title": "Without Me",
+    "artist": "Eminem",
+    "artwork": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4gTUOY-default.jpg",
+    "rating": 5,
+    "playlist": [
+      "Eminem"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/TbT9s3FFXy6SPC7spiBAZk4FXlIG3JcC",
+    "title": "American boy",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/6dT6bVSbGQszHxBldE7A0XsEHaurC6rE",
+    "title": "Blimp",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/pFQqEbiWjsl5ZcOe84gIBmcEPD4gp97K",
+    "title": "Doing The Things - Louis Cole",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/TobJBqkhluCfP4D0ImFvvuMMWma8Niyb",
+    "title": "DVNO (Radio Edit)",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/2gGLSVWauZC0E80Bue4cYuDTwNGxcUfk",
+    "title": "F it Up (Live Sesh)",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/lM50UQA3TxSAX9rOZjIN5vcdQe5srnSv",
+    "title": "I_m The President - KNOWER",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/3u6MANwh6hc3VNETv12C1phyBQFWGwqX",
+    "title": "Jamiroquai - Cosmic Girl",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/kbixO5VZlFyf4T9QJQ12az3bBDiY9BjX",
+    "title": "Jamiroquai - Virtual Insanity",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/UDmnWg8YYK6G40NfJR2odf4vMo2sUpCa",
+    "title": "LemKuuja  - Ouais Ouais (ft. SlyLeaf)",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/W6LnjvIvwobAzxhSs2q3X3HlCIAqhD9A",
+    "title": "Loretta",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/wOVv7BfJ0sxg5BlCi5VJ5Ei1IYu8DxWT",
+    "title": "MF DOOM - One Beer",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/hdLAvkDIu2blNLfqKFJxvOXUmvsFSQ5H",
+    "title": "Thinking (Live Sesh)",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
+  },
+  {
+    "url": "https://audio.jukehost.co.uk/cbETKVv1JpeTNwrVqro3r65gZd3Teyma",
+    "title": "Weird Part of the Night - Louis Cole",
+    "artist": "Funk",
+    "artwork": "https://e1.pxfuel.com/desktop-wallpaper/123/292/desktop-wallpaper-funk-music-thumbnail.jpg",
+    "rating": 5,
+    "playlist": [
+      "Funk"
+    ]
   }
 ]
