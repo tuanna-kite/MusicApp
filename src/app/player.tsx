@@ -5,7 +5,6 @@ import { PlayerRepeatToggle } from '@/components/PlayerRepeatToggle'
 import { PlayerVolumeBar } from '@/components/PlayerVolumeBar'
 import { unknownTrackImageUri } from '@/constants/images'
 import { colors, fontSize, screenPadding } from '@/constants/tokens'
-import { usePlayerBackground } from '@/hooks/usePlayerBackground'
 import { useTrackPlayerFavorite } from '@/hooks/useTrackPlayerFavorite'
 import { defaultStyles, utilsStyles } from '@/styles'
 import { FontAwesome } from '@expo/vector-icons'
@@ -17,7 +16,6 @@ import { useActiveTrack } from 'react-native-track-player'
 
 const PlayerScreen = () => {
 	const activeTrack = useActiveTrack()
-	const { imageColors } = usePlayerBackground(activeTrack?.artwork ?? unknownTrackImageUri)
 
 	const { top, bottom } = useSafeAreaInsets()
 
@@ -32,10 +30,7 @@ const PlayerScreen = () => {
 	}
 
 	return (
-		<LinearGradient
-			style={{ flex: 1 }}
-			colors={imageColors ? [imageColors.background, imageColors.primary] : [colors.background]}
-		>
+		<LinearGradient style={{ flex: 1 }} colors={[colors.background, colors.primary]}>
 			<View style={styles.overlayContainer}>
 				<DismissPlayerSymbol />
 
@@ -74,7 +69,7 @@ const PlayerScreen = () => {
 									<FontAwesome
 										name={isFavorite ? 'heart' : 'heart-o'}
 										size={20}
-										color={isFavorite ? "#FF606E" : colors.icon}
+										color={isFavorite ? '#FF606E' : colors.icon}
 										style={{ marginHorizontal: 14 }}
 										onPress={toggleFavorite}
 									/>
